@@ -11,10 +11,10 @@ body
 
 #menu-search {
     position: absolute;
-    left: 45%;
+    left: 650px;
     height: 29px;
     width: 215px;
-    top: 8px;
+    top: 15px;
     border-radius: 3px;
     background: #fafafa;
     border: 1px solid rgba(219, 219, 219, 1);
